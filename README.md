@@ -1,1 +1,1 @@
-# linear_regression_1
+# lin_reg_gp1
